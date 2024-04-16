@@ -20,3 +20,5 @@
 - Lecture: KGs and LLMs (Slides)
 - Laboratory: OWL2Vec* and DeepOnto. Project preparation (Lab notes)
 - Support codes.
+
+This course is a taolired version of [City's Semantic Web Technologies and Knowledge Graphs module](https://github.com/turing-knowledge-graphs/teaching/tree/main/city).
