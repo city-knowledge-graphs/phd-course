@@ -1,7 +1,14 @@
 # Knowledge Graphs in the Era of Large Language Models
 
+This PhD course is organised in 4 sessions of 3 hours each combining theory and practice.
 
-## Session 1 (3 hours):
+## Setting-up 
+
+The example codes will be in [Python](https://www.python.org/downloads/) (tested with Python version >=3.10). I strongly recommend using python environments to use the right library versions.
+
+
+
+## Session 1:
 - Lecture: Introduction to Knowledge Graphs (Slides)
 - Laboratory: Creating a small KG and ontology (Lab notes)
 - Support codes.
