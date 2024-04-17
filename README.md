@@ -8,22 +8,22 @@ The example codes will be in [Python](https://www.python.org/downloads/) (tested
 
 
 
-## Session 1:
+## Session 1
 - Lecture: Introduction to Knowledge Graphs (Slides)
 - Laboratory: Creating a small KG and ontology (Lab notes)
 - Support codes.
 
-## Session 2 (3 hours):
+## Session 2
 - Lecture: Knowledge Graphs and Semantics (Slides)
 - Laboratory: SPARQL and Reasoning (Lab notes)
 - Support codes.
 
-## Session 3 (3 hours)
+## Session 3
 - Lecture: Matching (Slides)
 - Laboratory: KG alignment and Tabular data to KG matching (Lab notes)
 - Support codes.
   
-## Session 4 (3 hours)
+## Session 4
 - Lecture: KGs and LLMs (Slides)
 - Laboratory: OWL2Vec* and DeepOnto. Project preparation (Lab notes)
 - Support codes.
