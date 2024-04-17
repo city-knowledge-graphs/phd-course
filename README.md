@@ -1,4 +1,4 @@
-# Knowledge Graphs in the Era of Large Language Models
+# Knowledge Graphs in the era of Large Language Models
 
 This PhD course is organised in 4 sessions of 3 hours each combining theory and practice.
 
