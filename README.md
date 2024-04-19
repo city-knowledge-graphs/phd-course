@@ -5,7 +5,7 @@ This PhD course is organised in 4 sessions of 3 hours each combining theory and 
 ## Setting-up 
 
 The example codes will be in [Python](https://www.python.org/downloads/) (tested with Python version >=3.10). I strongly recommend using python environments to use the right library versions.
-
+Follow the instructions in 
 
 
 ## Session 1
