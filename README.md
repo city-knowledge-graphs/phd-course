@@ -17,17 +17,17 @@ To avoid clashes with the changes on the main branch it is suggested to add gene
 - Support codes.
 
 ## Session 2
-- Lecture: Knowledge Graphs and Semantics (Slides)
-- Laboratory: SPARQL and Reasoning (Lab notes)
+- Lecture: Reasoning and Querying with Knowledge Graphs (Slides)
+- Laboratory: First steps with the SPARQL query language (Lab notes)
 - Support codes.
 
 ## Session 3
-- Lecture: Matching (Slides)
-- Laboratory: KG alignment and Tabular data to KG matching (Lab notes)
+- Lecture: Matching: KG-to-KG and CSV-to-KG (Slides)
+- Laboratory: Creation of a (simple) matching system (Lab notes)
 - Support codes.
   
 ## Session 4
-- Lecture: KGs and LLMs (Slides)
+- Lecture: Knowledge Graphs and Language Modules (Slides)
 - Laboratory: OWL2Vec* and DeepOnto. Project preparation (Lab notes)
 - Support codes.
 
