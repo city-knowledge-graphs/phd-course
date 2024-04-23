@@ -1,0 +1,33 @@
+<rdf:RDF
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:foaf="http://xmlns.com/foaf/0.1/"
+      xmlns:admin="http://webns.net/mvcb/">
+<foaf:PersonalProfileDocument rdf:about="">
+  <foaf:maker rdf:resource="#me"/>
+  <foaf:primaryTopic rdf:resource="#me"/>
+  <admin:generatorAgent rdf:resource="http://www.ldodds.com/foaf/foaf-a-matic"/>
+  <admin:errorReportsTo rdf:resource="mailto:leigh@ldodds.com"/>
+</foaf:PersonalProfileDocument>
+<foaf:Person rdf:ID="me">
+<foaf:name>Ernesto Jimenez-Ruiz</foaf:name>
+<foaf:title>Dr</foaf:title>
+<foaf:givenname>Ernesto</foaf:givenname>
+<foaf:family_name>Jimenez-Ruiz</foaf:family_name>
+<foaf:mbox rdf:resource="mailto:ernesto.jimenez-ruiz@city.ac.uk"/>
+<foaf:homepage rdf:resource="https://www.city.ac.uk/people/academics/ernesto-jimenez-ruiz"/>
+<foaf:depiction rdf:resource="https://www.city.ac.uk/__data/assets/image/0003/492915/Ernesto-Jimenez-Ruiz-2-200px.jpg"/>
+<foaf:phone rdf:resource="tel:+44-(0)20-7040-0202"/>
+<foaf:workplaceHomepage rdf:resource="https://www.city.ac.uk/people/academics/ernesto-jimenez-ruiz"/>
+<foaf:workInfoHomepage rdf:resource="https://www.city.ac.uk/people/academics/ernesto-jimenez-ruiz"/>
+<foaf:knows>
+<foaf:Person>
+<foaf:name>Aidan Slingsby</foaf:name>
+<foaf:mbox rdf:resource="mailto:a.slingsby@city.ac.uk"/></foaf:Person></foaf:knows>
+<foaf:knows>
+<foaf:Person>
+<foaf:name>James Hendler</foaf:name>
+<foaf:mbox rdf:resource="mailto:james@cs.rpi.edu"/>
+<rdfs:seeAlso rdf:resource="http://www.cs.rpi.edu/~hendler/foaf.rdf"/></foaf:Person></foaf:knows>
+</foaf:Person>
+</rdf:RDF>

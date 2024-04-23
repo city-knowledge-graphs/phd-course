@@ -1,0 +1,4 @@
+SELECT ?thing ?name where {
+      ?thing tto:sex "female" .
+      ?thing dbp:name ?name .
+}
