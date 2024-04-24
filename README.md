@@ -11,24 +11,24 @@ Follow the instructions in the [lab session 0](https://github.com/city-knowledge
 To avoid clashes with the changes on the main branch it is suggested to add generated codes and data in the folder [student-codes-data](https://github.com/city-knowledge-graphs/phd-course/tree/main/python/student-codes-data).
 
 ## Session 1
-- Lecture: Introduction to Knowledge Graphs (Slides)
-- Laboratory: Creating a small KG and ontology (Lab notes)
-- Support codes.
+- Lecture: Introduction to Knowledge Graphs ([Slides](https://github.com/city-knowledge-graphs/phd-course/blob/main/lectures/phd-course-kgs-aalborg-session-1-intro.pdf))
+- Laboratory: Creating a small KG and ontology ([Lab notes](https://github.com/city-knowledge-graphs/phd-course/blob/main/labs/phd-course-kgs-aalborg-lab-session-1-kgs-onto.pdf)) ([support slides](https://github.com/city-knowledge-graphs/phd-course/blob/main/labs/phd-course-kgs-aalborg-lab-session-1-2-support-slides.pdf))
+- [Support codes](https://github.com/city-knowledge-graphs/phd-course/tree/main/python/lab-session1).
 
 ## Session 2
-- Lecture: Reasoning and Querying with Knowledge Graphs (Slides)
-- Laboratory: First steps with the SPARQL query language (Lab notes)
-- Support codes.
+- Lecture: Reasoning and Querying with Knowledge Graphs ([Slides](https://github.com/city-knowledge-graphs/phd-course/blob/main/lectures/phd-course-kgs-aalborg-session-2-querying-reasoning.pdf))
+- Laboratory: First steps with the SPARQL query language ([Lab notes](https://github.com/city-knowledge-graphs/phd-course/blob/main/labs/phd-course-kgs-aalborg-lab-session-2-reasoning-sparql.pdf)) ([support slides](https://github.com/city-knowledge-graphs/phd-course/blob/main/labs/phd-course-kgs-aalborg-lab-session-1-2-support-slides.pdf))
+- [Support codes](https://github.com/city-knowledge-graphs/phd-course/tree/main/python/lab-session2).
 
 ## Session 3
 - Lecture: Matching: KG-to-KG and CSV-to-KG (Slides)
 - Laboratory: Creation of a (simple) matching system (Lab notes)
-- Support codes.
+- [Support codes](https://github.com/city-knowledge-graphs/phd-course/tree/main/python/lab-session3).
   
 ## Session 4
 - Lecture: Knowledge Graphs and Language Models (Slides)
 - Laboratory: Ontology Embeddings with OWL2Vec* (Lab notes)
-- Support codes.
+- [Support codes](https://github.com/city-knowledge-graphs/phd-course/tree/main/python/lab-session4).
   
 ## Project description
 
