@@ -38,5 +38,5 @@ Students need to work on a small project (max 2 students per group). There are t
 
 Submission:
 - When: June 16, 23:59 CEST
-- What: a link to the GitHub repository where the system codes are. Please document the repository so that the codes are easier to run
+- What: a link to the GitHub repository where the system codes are. Please document the repository so that the codes are easy to run
 - How: via this [Google form](https://forms.gle/xxwynC59y1xCgdvj8).
