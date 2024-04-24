@@ -27,7 +27,7 @@ To avoid clashes with the changes on the main branch it is suggested to add gene
 - Support codes.
   
 ## Session 4
-- Lecture: Knowledge Graphs and Language Modules (Slides)
+- Lecture: Knowledge Graphs and Language Models (Slides)
 - Laboratory: OWL2Vec* and DeepOnto. Project preparation (Lab notes)
 - Support codes.
 
