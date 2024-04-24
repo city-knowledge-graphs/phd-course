@@ -33,8 +33,8 @@ To avoid clashes with the changes on the main branch it is suggested to add gene
 ## Project description
 
 Students need to work on a small project (max 2 students per group). There are two options:
-1. Create a (simple) system that performs KG to KG alignment. Try to implement some sophisticated ideas as described in the lecture.
-2. Create a (simple) system that performs CSV to KG matching. TRy to implement desambuguation techniques as shown in the lecture.
+1. Create a (simple) system that performs KG to KG alignment. Try to implement some sophisticated ideas as described in the lecture. Selected systems may try to participate in the [OAEI campaign](http://oaei.ontologymatching.org/).
+2. Create a (simple) system that performs CSV to KG matching. Try to implement disambuguation techniques as shown in the lecture. Selected systems may try to participate in the [SemTab challenge](https://www.cs.ox.ac.uk/isg/challenges/sem-tab/).
 
 Submission:
 - When: June 16, 23:59 CEST
