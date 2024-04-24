@@ -1,0 +1,39 @@
+<http://cmt#hasBeenAssigned>
+        <http://www.w3.org/2002/07/owl#equivalentProperty>
+                <http://ekaw#reviewerOfPaper> .
+
+<http://cmt#Review>  <http://www.w3.org/2002/07/owl#equivalentClass>
+                <http://ekaw#Review> .
+
+<http://cmt#ConferenceMember>
+        <http://www.w3.org/2002/07/owl#equivalentClass>
+                <http://ekaw#Conference_Participant> .
+
+<http://cmt#Author>  <http://www.w3.org/2002/07/owl#equivalentClass>
+                <http://ekaw#Paper_Author> .
+
+<http://cmt#Conference>
+        <http://www.w3.org/2002/07/owl#equivalentClass>
+                <http://ekaw#Conference> .
+
+<http://cmt#Paper>  <http://www.w3.org/2002/07/owl#equivalentClass>
+                <http://ekaw#Paper> .
+
+<http://cmt#Person>  <http://www.w3.org/2002/07/owl#equivalentClass>
+                <http://ekaw#Person> .
+
+<http://cmt#Document>
+        <http://www.w3.org/2002/07/owl#equivalentClass>
+                <http://ekaw#Document> .
+
+<http://cmt#assignedTo>
+        <http://www.w3.org/2002/07/owl#equivalentProperty>
+                <http://ekaw#hasReviewer> .
+
+<http://cmt#writtenBy>
+        <http://www.w3.org/2002/07/owl#equivalentProperty>
+                <http://ekaw#reviewWrittenBy> .
+
+<http://cmt#PaperFullVersion>
+        <http://www.w3.org/2002/07/owl#equivalentClass>
+                <http://ekaw#Regular_Paper> .

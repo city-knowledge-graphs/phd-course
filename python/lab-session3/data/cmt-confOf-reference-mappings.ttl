@@ -1,0 +1,58 @@
+<http://cmt#hasBeenAssigned>
+        <http://www.w3.org/2002/07/owl#equivalentProperty>
+                <http://confOf#reviewes> .
+
+<http://cmt#Administrator>
+        <http://www.w3.org/2002/07/owl#equivalentClass>
+                <http://confOf#Administrator> .
+
+<http://cmt#SubjectArea>
+        <http://www.w3.org/2002/07/owl#equivalentClass>
+                <http://confOf#Topic> .
+
+<http://cmt#ConferenceMember>
+        <http://www.w3.org/2002/07/owl#equivalentClass>
+                <http://confOf#Member> .
+
+<http://cmt#title>  <http://www.w3.org/2002/07/owl#equivalentProperty>
+                <http://confOf#hasTitle> .
+
+<http://cmt#writePaper>
+        <http://www.w3.org/2002/07/owl#equivalentProperty>
+                <http://confOf#writes> .
+
+<http://cmt#ProgramCommitteeMember>
+        <http://www.w3.org/2002/07/owl#equivalentClass>
+                <http://confOf#Member_PC> .
+
+<http://cmt#Author>  <http://www.w3.org/2002/07/owl#equivalentClass>
+                <http://confOf#Author> .
+
+<http://cmt#ProgramCommitteeChair>
+        <http://www.w3.org/2002/07/owl#equivalentClass>
+                <http://confOf#Chair_PC> .
+
+<http://cmt#hasAuthor>
+        <http://www.w3.org/2002/07/owl#equivalentProperty>
+                <http://confOf#writtenBy> .
+
+<http://cmt#hasSubjectArea>
+        <http://www.w3.org/2002/07/owl#equivalentProperty>
+                <http://confOf#dealsWith> .
+
+<http://cmt#Conference>
+        <http://www.w3.org/2002/07/owl#equivalentClass>
+                <http://confOf#Conference> .
+
+<http://cmt#Paper>  <http://www.w3.org/2002/07/owl#equivalentClass>
+                <http://confOf#Contribution> .
+
+<http://cmt#Person>  <http://www.w3.org/2002/07/owl#equivalentClass>
+                <http://confOf#Person> .
+
+<http://cmt#email>  <http://www.w3.org/2002/07/owl#equivalentProperty>
+                <http://confOf#hasEmail> .
+
+<http://cmt#PaperFullVersion>
+        <http://www.w3.org/2002/07/owl#equivalentClass>
+                <http://confOf#Paper> .

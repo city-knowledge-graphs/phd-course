@@ -1,0 +1,78 @@
+<http://confOf#University>
+        <http://www.w3.org/2002/07/owl#equivalentClass>
+                <http://ekaw#University> .
+
+<http://confOf#Organization>
+        <http://www.w3.org/2002/07/owl#equivalentClass>
+                <http://ekaw#Organisation> .
+
+<http://confOf#Workshop>
+        <http://www.w3.org/2002/07/owl#equivalentClass>
+                <http://ekaw#Workshop> .
+
+<http://confOf#Member_PC>
+        <http://www.w3.org/2002/07/owl#equivalentClass>
+                <http://ekaw#PC_Member> .
+
+<http://confOf#Person>
+        <http://www.w3.org/2002/07/owl#equivalentClass>
+                <http://ekaw#Person> .
+
+<http://confOf#Trip>  <http://www.w3.org/2002/07/owl#equivalentClass>
+                <http://ekaw#Conference_Trip> .
+
+<http://confOf#Scholar>
+        <http://www.w3.org/2002/07/owl#equivalentClass>
+                <http://ekaw#Student> .
+
+<http://confOf#Banquet>
+        <http://www.w3.org/2002/07/owl#equivalentClass>
+                <http://ekaw#Conference_Banquet> .
+
+<http://confOf#Topic>
+        <http://www.w3.org/2002/07/owl#equivalentClass>
+                <http://ekaw#Research_Topic> .
+
+<http://confOf#Chair_PC>
+        <http://www.w3.org/2002/07/owl#equivalentClass>
+                <http://ekaw#PC_Chair> .
+
+<http://confOf#Tutorial>
+        <http://www.w3.org/2002/07/owl#equivalentClass>
+                <http://ekaw#Tutorial> .
+
+<http://confOf#Poster>
+        <http://www.w3.org/2002/07/owl#equivalentClass>
+                <http://ekaw#Poster_Paper> .
+
+<http://confOf#Event>
+        <http://www.w3.org/2002/07/owl#equivalentClass>
+                <http://ekaw#Event> .
+
+<http://confOf#Social_event>
+        <http://www.w3.org/2002/07/owl#equivalentClass>
+                <http://ekaw#Social_Event> .
+
+<http://confOf#Working_event>
+        <http://www.w3.org/2002/07/owl#equivalentClass>
+                <http://ekaw#Scientific_Event> .
+
+<http://confOf#Participant>
+        <http://www.w3.org/2002/07/owl#equivalentClass>
+                <http://ekaw#Conference_Participant> .
+
+<http://confOf#Conference>
+        <http://www.w3.org/2002/07/owl#equivalentClass>
+                <http://ekaw#Conference> .
+
+<http://confOf#Contribution>
+        <http://www.w3.org/2002/07/owl#equivalentClass>
+                <http://ekaw#Paper> .
+
+<http://confOf#Student>
+        <http://www.w3.org/2002/07/owl#equivalentClass>
+                <http://ekaw#Student> .
+
+<http://confOf#Author>
+        <http://www.w3.org/2002/07/owl#equivalentClass>
+                <http://ekaw#Paper_Author> .
