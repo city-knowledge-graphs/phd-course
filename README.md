@@ -10,8 +10,6 @@ Follow the instructions in the [lab session 0](https://github.com/city-knowledge
 
 To avoid clashes with the changes on the main branch it is suggested to add generated codes and data in the folder [student-codes-data](https://github.com/city-knowledge-graphs/phd-course/tree/main/python/student-codes-data).
 
-
-
 ## Session 1
 - Lecture: Introduction to Knowledge Graphs (Slides)
 - Laboratory: Creating a small KG and ontology (Lab notes)
@@ -31,16 +29,14 @@ To avoid clashes with the changes on the main branch it is suggested to add gene
 - Lecture: Knowledge Graphs and Language Models (Slides)
 - Laboratory: Ontology Embeddings with OWL2Vec* (Lab notes)
 - Support codes.
-
-
-
-
+  
 ## Project description
 
+Students need to work on a small project (max 2 students per group). There are two options:
+1. Create a (simple) system that performs KG to KG alignment. Try to implement some sophisticated ideas as described in the lecture.
+2. Create a (simple) system that performs CSV to KG matching. TRy to implement desambuguation techniques as shown in the lecture.
 
-
-
-
-.
-
-
+Submission:
+- When: June 16, 23:59 CEST
+- What: a link to the GitHub repository where the system codes are. Please document the repository so that the codes are easier to run
+- How: via this [Google form](https://forms.gle/xxwynC59y1xCgdvj8).
