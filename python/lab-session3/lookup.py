@@ -331,9 +331,10 @@ class GoogleKGLookup(Lookup):
             
             types = set()
             
-            for t in element['result']['@type']:
-                if t != 'Thing':
-                    types.add("http://schema.org/"+t)
+            if '@type' in element['result']:
+                for t in element['result']['@type']:
+                    if t != 'Thing':
+                        types.add("http://schema.org/"+t)
             
             
             description=''
@@ -378,6 +379,7 @@ if __name__ == '__main__':
     #query="Chicago Bulls"
     #query="Congo"
     query="United Kingdom"
+    #query="Middle Village"
     
     #Max entities to be returned matching the keyword query
     limit=5
