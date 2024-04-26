@@ -39,6 +39,6 @@ Students need to work on a small project (max 2 students per group). There are t
 2. Create a (simple) system that performs CSV to KG matching. Try to implement disambuguation techniques as shown in the lecture. Selected systems may try to participate in the [SemTab challenge](https://www.cs.ox.ac.uk/isg/challenges/sem-tab/).
 
 Submission:
-- **When:** <span style="color:blue">June 16, 23:59 CEST (strict deadline)</span>
+- **When:** <font color='blue'>June 16, 23:59 CEST (strict deadline)</font>
 - **What:** a link to the GitHub repository where the system codes are. Please document the repository so that the codes are easy to run
 - **How:** via this [Google form](https://forms.gle/xxwynC59y1xCgdvj8).
