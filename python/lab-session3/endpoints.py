@@ -87,7 +87,7 @@ class SPARQLEndpoint(object):
     
     def getAllSuperClasses(self, uri_class):
         
-        query = self.createSPARQLQueryAllSuperClassesFoClass(uri_class)
+        query = self.createSPARQLQueryAllSuperClassesForClass(uri_class)
         
         return self.getQueryResultsArityOne(query)
     
@@ -109,7 +109,7 @@ class SPARQLEndpoint(object):
     
     def getAllSubClasses(self, uri_class):
         
-        query = self.createSPARQLQueryAllSubClassesFoClass(uri_class)
+        query = self.createSPARQLQueryAllSubClassesForClass(uri_class)
         
         return self.getQueryResultsArityOne(query)
     
