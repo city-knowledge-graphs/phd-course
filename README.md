@@ -19,6 +19,7 @@ To avoid clashes with the changes on the main branch it is suggested to add gene
 - Lecture: Reasoning and Querying with Knowledge Graphs ([Slides](https://github.com/city-knowledge-graphs/phd-course/blob/main/lectures/phd-course-kgs-aalborg-session-2-querying-reasoning.pdf))
 - Laboratory: First steps with the SPARQL query language ([Lab notes](https://github.com/city-knowledge-graphs/phd-course/blob/main/labs/phd-course-kgs-aalborg-lab-session-2-reasoning-sparql.pdf)) ([support slides](https://github.com/city-knowledge-graphs/phd-course/blob/main/labs/phd-course-kgs-aalborg-lab-session-1-2-support-slides.pdf))
 - [Support codes](https://github.com/city-knowledge-graphs/phd-course/tree/main/python/lab-session2).
+- Small [tutorial on GraphDB](https://github.com/turing-knowledge-graphs/teaching/blob/main/city/2023-2024/IN3067-INM713_Lab_Session7_SPARQL1.1_GraphDB_2024_with_solutions.pdf) we follow with my students at City.
 
 ## Session 3
 - Lecture: Matching: KG-to-KG and CSV-to-KG ([Slides](https://github.com/city-knowledge-graphs/phd-course/blob/main/lectures/phd-course-kgs-aalborg-session-3-matching.pdf))
