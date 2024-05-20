@@ -36,7 +36,7 @@ To avoid clashes with the changes on the main branch it is suggested to add gene
   
 ## Project description
 
-Students need to work on a small project (max 2 students per group). There are two options:
+Students need to work on a small project (max 2 students per group). There are two options (see ([Lab 3 notes](https://github.com/city-knowledge-graphs/phd-course/blob/main/labs/phd-course-kgs-aalborg-lab-session-3-matching.pdf))):
 1. Create a (simple) system that performs KG to KG alignment. Try to implement some sophisticated ideas as described in the lecture. Selected systems may try to participate in the [OAEI campaign](http://oaei.ontologymatching.org/).
 2. Create a (simple) system that performs CSV to KG matching. Try to implement disambuguation techniques as shown in the lecture. Selected systems may try to participate in the [SemTab challenge](https://www.cs.ox.ac.uk/isg/challenges/sem-tab/).
 
