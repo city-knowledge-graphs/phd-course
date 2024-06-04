@@ -1,6 +1,6 @@
 # Knowledge Graphs in the era of Large Language Models
 
-This PhD course is organised in 4 sessions of 3 hours each combining theory and practice.
+This PhD course delivered at the University of Aalborg in April 2024. The course is organised in 4 sessions of 3 hours each combining theory and practice.
 This course is a tailored version of [City's Semantic Web Technologies and Knowledge Graphs module](https://github.com/turing-knowledge-graphs/teaching/tree/main/city).
 
 ## Setting-up 
